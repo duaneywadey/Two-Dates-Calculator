@@ -1,0 +1,26 @@
+body {
+
+background-color: #e0fbfc;
+
+}
+
+.container {
+background-color: #36454F;
+max-width: 750px;
+height: auto;
+color: #fff;
+transform: translate(0px, 100px);
+padding-top: 100px;
+padding-bottom: 100px;
+box-shadow: 5px 10px 18px #888888;
+
+
+}
+input {
+padding: 10px 10px 10px 10px;
+font-family: "Calibri";
+}
+
+#output {
+  font-size: 1.2em;
+}
